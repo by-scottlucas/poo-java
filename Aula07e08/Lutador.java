@@ -1,4 +1,4 @@
-package Aula07;
+package Aula07e08;
 
 public class Lutador {
 
