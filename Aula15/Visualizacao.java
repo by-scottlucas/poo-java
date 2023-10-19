@@ -51,7 +51,7 @@ public class Visualizacao {
 
     @Override
     public String toString() {
-        return "Visualizacao [espectador=" + espectador + ", video=" + video + "]";
+        return "\nEspectador: " + espectador + "\nVideo: " + video + "\n";
     }
 
 }
